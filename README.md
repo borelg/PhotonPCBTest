@@ -3,9 +3,18 @@ Method that employ Anycubic Photon DLP printer for the creation of printed circu
 
 1. PCB design
 
+[image PCB]
+I used KiCad to design the desired PCB.
+
+
 2. Export svg (negative & mirrored)
 
+[image svg]
+I exported the svg file of the design selecting the NEGATIVE and MIRRORED option.
+
 3. Obtain PNG from svg
+
+
 
 4. PNG to photon file
 
