@@ -5,7 +5,8 @@ Method that employ Anycubic Photon DLP printer for the creation of printed circu
 
 
 
-[image PCB]
+![PCB_kicad](https://user-images.githubusercontent.com/37478033/75089867-71ee8d00-555d-11ea-81ba-53a5a5169133.png)
+
 I used KiCad to design the desired PCB.
 
 
