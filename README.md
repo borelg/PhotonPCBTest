@@ -62,6 +62,11 @@ Now the photon file is ready to be transfered to an USB key and executed in my P
 
 <img src="https://user-images.githubusercontent.com/37478033/79127773-c286a780-7da2-11ea-90d0-2a7a230e06bb.jpg" height="50%" width="50%">
 
+<img src="https://user-images.githubusercontent.com/37478033/79129209-172b2200-7da5-11ea-8294-c7b2306e723e.jpg" height="50%" width="50%">
 
+<img src="https://user-images.githubusercontent.com/37478033/79129255-2dd17900-7da5-11ea-9d1a-489cbe07b956.jpg" height="50%" width="50%">
 
+**6. Final Result**
+
+![PCB_result](https://user-images.githubusercontent.com/37478033/79129351-5a859080-7da5-11ea-9c5e-290056d1b009.png)
 
