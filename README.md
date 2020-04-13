@@ -20,8 +20,15 @@ I exported the svg file of the design selecting the NEGATIVE and MIRRORED option
 
 3. Obtain PNG from svg
 
+File -> Document Property:
 According to https://github.com/Photonsters/anycubic-photon-docs the print area is 68.04(W)mm x 120.96(H)mm, thus we should create a new document that has the same size.
 
+File -> Import:
+Select the .svg file that was the output of your PCB design software.
+Then, adjustthe position of your PCB on the page.
+
+File -> Export as PNG image:
+Export the entire page and define the resolution of the resultant PNG image to be compliant with Photon's resolution: 2560x1440 pixels.
 
 
 
