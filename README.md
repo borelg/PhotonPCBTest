@@ -20,6 +20,8 @@ I exported the svg file of the design selecting the NEGATIVE and MIRRORED option
 
 3. Obtain PNG from svg
 
+According to https://github.com/Photonsters/anycubic-photon-docs the print area is 68.04(W)mm x 120.96(H)mm, thus we should create a new document that has the same size.
+
 
 
 
