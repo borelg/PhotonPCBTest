@@ -18,6 +18,8 @@ I exported the svg file of the design selecting the NEGATIVE and MIRRORED option
 
 **3. Obtain PNG from svg**
 
+I used InkScape to obtain o compatible PNG file from the PCB svg design.
+
 File -> Document Property:
 According to https://github.com/Photonsters/anycubic-photon-docs the print area is 68.04(W)mm x 120.96(H)mm, thus I should create a new document that has the same size. Plus, I should set the background of the page to be black. **Remember to set the alpha channel to 100% as well.**
 
